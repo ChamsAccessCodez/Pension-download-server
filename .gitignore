@@ -1,0 +1,2 @@
+# ignore the node module during push to github
+node_modules
